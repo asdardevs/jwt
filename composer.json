@@ -1,0 +1,12 @@
+{
+    "name": "flutter/testing-jwt",
+    "authors": [
+        {
+            "name": "Muhammad Asdar",
+            "email": "muhammadasdar5@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.3"
+    }
+}
